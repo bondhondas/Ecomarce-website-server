@@ -19,5 +19,5 @@ Here are some features. It is described below:
 * DELETE order API.
 
 Best Regards \
-Md. Rifat Islam
+Bondhon Das
  
